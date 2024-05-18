@@ -1,54 +1,46 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/woodex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/woodex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/woodex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NK8Cif0dAoM?style=social)](https://youtu.be/NK8Cif0dAoM)
-
-  <br />
-  <br />
-
-  <h2 align="center">Woodex - Furniture eCommerce Website</h2>
-
-  Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/woodex/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
 ### Demo Screeshots
+  <a href="#" target="_blank">
+      <img src="https://i.ibb.co/jgQ022H/Woodex-Website.jpg" alt="Project Banner">
+    </a>
 
-![Woodex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
+## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
-
-To run **Woodex** locally, run this command on your git bash:
+## Run Locally
+To run **Coffee-Website** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/woodex.git
+sudo git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/woodex.git
+git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
 ```
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## Connect with me!
+  
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ProgrammerSiam.xyz) 
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@programmersiam) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmersiam/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmersiam/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ProgrammerSiam) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasansiam.com@gmail.com)
 
-### License
 
-This project is **free to use** and does not contains any license.
+
+
+## License
+This project is <strong>free to use</strong>  and does not contains any license.
+
+
+
+
+
+
